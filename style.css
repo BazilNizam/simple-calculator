@@ -1,0 +1,25 @@
+.calc{
+    width:400px;
+    height:600px;
+    background:linear-gradient(to bottom right, #187dd6 ,teal);
+    margin-left: 600px;
+}
+#screen{
+    width: 80%;
+    margin-left: 36px;
+    height: 40px;
+    margin-top: 32px;
+    pointer-events: none;
+}
+
+
+.btn{
+    width: 50px;
+    height: 50px;
+    margin-left: 38px;
+    margin-top: 39px;
+    border-radius: 50%;
+    color: white;
+    font-weight: 600;
+    background:linear-gradient(to bottom right, #000000 ,teal);
+}
